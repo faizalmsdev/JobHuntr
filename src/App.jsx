@@ -7,7 +7,7 @@ import Footer from "./Components/FooterDiv/Footer"
 
 const App = () => {
   return (
-    <div>
+    <div className="m-auto bg-white">
       <NAvBar />
       <Search />
       <Jobs/>
